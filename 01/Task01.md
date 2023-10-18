@@ -38,7 +38,7 @@ ng version
 7.Utwórz nową aplikację Angular za pomocą komendy.
 
 ```ps
-ng new <your-application-name> --routing --style=css
+ng new 'your-application-name' --routing --style=css
 ```
 Wybierz domyślną wersję routingu oraz CSS jako wybór języka do arkusza styli.
 
