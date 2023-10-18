@@ -1,4 +1,4 @@
-Task 03
+# Wyświetlenie danych użytkowników z API
 
 1. Utwórz nowy komponent `users-list`, który będzie prezentował dane w postaci tabelarycznej oraz dowolnego formatu zbudowanego przez Ciebie.
 2. Utwórz model danych dla danych przychodzących z API -> https://jsonplaceholder.typicode.com/users
