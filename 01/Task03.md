@@ -9,6 +9,6 @@
 
 3. Dodaj nawigacje - możesz skorzystać z tej dostępnej w dokumentacji Bootstrap.
 
-4. Dodaj przyciski do nowych komponentów.
+4. Dodaj przyciski do przekierowania nowych komponentów.
 
 5. Wykorzystaj atrybuty `[routerLink]` oraz `[routerLinkActive]`
