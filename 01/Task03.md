@@ -2,7 +2,7 @@
 
 1. Utwórz 3 nowe komponenty do dodawania użytkowników, przeglądania listy użytkowników oraz reprezentujący stronę startową.
 ```ps
-  ng g c <twoja_nazwa_komponentu> --skip-tests
+  ng g c `twoja_nazwa_komponentu` --skip-tests
 ```
 
 2. Dodaj routing do podstron i komponentów. Wykorzystaj `<router-outlet>` w głównym komponencie do dynamicznego wyświetlania komponentów.
