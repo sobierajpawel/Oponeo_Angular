@@ -1,4 +1,4 @@
-# Zbuduj formularz przy wykorzystaniu ngModel
+# Zbuduj formularz dodawania użytkownika przy wykorzystaniu ngModel
 
 1. Dodaj `FormsModule` do głównego modułu aplikacji.
 2. Wykorzystaj dyrektywę `ngModel` oraz zdarzenie `ngSubmit` do obsługi formularza.
