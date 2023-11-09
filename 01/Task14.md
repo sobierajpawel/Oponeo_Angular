@@ -1,6 +1,6 @@
 # Formularz reaktywny
 
-1. Zbuduj formularz reaktywny dla obiektu `Todo` (pola tytuł - input typu text, czy zakończone zadanie - checkbox, user id - select z wyborem użytkownika). 
+1. Zbuduj formularz reaktywny do dodawania  nowego rekordu dla obiektu zadania do realizacji `Todo` (pola tytuł - input typu text, czy zakończone zadanie - checkbox, user id - select z wyborem użytkownika). 
 
 2. Zbuduj klasę, która będzie przechowywała właściwości dostępne w ramach endpointu.
  `https://jsonplaceholder.typicode.com/todos`
