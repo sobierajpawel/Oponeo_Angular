@@ -1,4 +1,4 @@
-# Input/Output komunikacja rodzic <-> dziecko
+# Input/Output komunikacja rodzic <-> dziecko - refaktoryzacja
 
 1. Zbuduj jeden formularz do edycji i dodawania użytkownika.
 2. Wykorzystaj `@Input` `@Output` do komunikacji -> przesyłanie danych oraz emisję zdarzeń.
