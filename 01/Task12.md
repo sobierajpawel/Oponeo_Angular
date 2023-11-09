@@ -4,3 +4,7 @@
 2. Wykorzystaj `@Input` `@Output` do komunikacji -> przesyłanie danych oraz emisję zdarzeń.
 3. Zastąp istniejące formularze tym jednym nowym.
 4. Obsłuż proces dodawania i aktualizacji danych.
+
+
+* Wykorzystaj dyrektywę`
+``` @ViewChild()```
