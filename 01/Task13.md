@@ -12,5 +12,5 @@
 
 6. Zapewnij by formularz nie będzie submitowany w momencie kiedy walidacja nie została spełniona.
 
-7. Napisz serwis oraz żądanie PUT wysyłające nowe zadanie do realizacji pod adres url endpointu.
+7. Napisz serwis (jeżeli go nie ma) oraz żądanie PUT wysyłające zaktualizowane zadanie do realizacji pod adres url endpointu.
 `https://jsonplaceholder.typicode.com/todos`
