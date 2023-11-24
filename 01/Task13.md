@@ -4,7 +4,7 @@
 
 2. Po kliknięciu na dane zadanie powinno przejść ono do możliwości edycji.
 
-3. Zbuduj formularz reaktywny do aktualizacji nowego rekordu dla obiektu zadania do realizacji `Todo` (pola tytuł - input typu text, czy zakończone zadanie - checkbox, user id - select z wyborem użytkownika). Jeżeli zadanie nie zostało jeszcze zakończone to istnieje możliwość edycji i zapisania zmian, jeżeli zostało zakończone to użytkownik może zmienić wszystkie dane.
+3. Zbuduj formularz reaktywny do aktualizacji nowego rekordu dla obiektu zadania do realizacji `Todo` (pola tytuł - input typu text, czy zakończone zadanie - checkbox, user id - select z wyborem użytkownika). Jeżeli zadanie nie zostało jeszcze zakończone to istnieje możliwość edycji i zapisania zmian, jeżeli zostało zakończone to użytkownik NIE MOŻE zmienić wszystkie dane.
 
 4. Wykorzystaj wbudowane walidatory required, maxlength, minlength na polach.
 
